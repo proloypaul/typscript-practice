@@ -2,7 +2,7 @@
 type GenericArray<T> = Array<T>
 
 const arrayNum2: number[] = [45, 66, 4, 5];
-const arrayNum21: Array<number> = [4, 5, 6]
+const arrayNum21: Array<number> = [4, 5, 6];
 const arrayNum22: GenericArray<number> = [6, 43, 3];
 
 const arrayString: string[] = ["sifat", "fardin", "Osman"];

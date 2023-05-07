@@ -32,7 +32,6 @@ const newData = {
 }
 
 const updateObject = <T>(param: T)=> {
-
     const address:string = "Dhaka, Bangladesh";
     const newData = {...param, address};
     return newData;
