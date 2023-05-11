@@ -1,4 +1,4 @@
-type a1 = number;
+type a1 = string;
 type a2 = undefined;
 type a3 = null;
 
